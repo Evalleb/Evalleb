@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![](data_school_banner.jpg)](https://tuesday.tips/?utm_campaign=github&utm_source=justmarkham&utm_medium=web&utm_content=logo)
+[![](https://github.com/justmarkham/justmarkham/raw/main/data_school_banner.jpg)](https://tuesday.tips/?utm_campaign=github&utm_source=justmarkham&utm_medium=web&utm_content=logo)
 
 # Welcome to Data School!
 
